@@ -1,0 +1,12 @@
+.date-picker-field {
+    padding-block: 8px;
+    padding-inline: 6px;
+}
+
+.features-field {
+    border-top: 1px dashed gray;
+    border-bottom: 1px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

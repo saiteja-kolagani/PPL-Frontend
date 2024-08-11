@@ -1,0 +1,13 @@
+.remove-btn {
+    background-color: darkred;
+}
+
+.remove-btn:hover{
+    color: red;
+    border: 1px solid red;
+}
+
+.display-timezones {    
+    text-align: center;
+    border-bottom: 1px dashed gray;
+}
